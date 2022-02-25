@@ -1,1 +1,1 @@
-# perodic-table-HTML-
+# periodic-table-HTML-
